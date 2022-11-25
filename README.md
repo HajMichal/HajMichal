@@ -1,1 +1,2 @@
-# Michal-Haj
+# Hi there, I'm Michal!
+# 🚀 About me
