@@ -41,3 +41,7 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![vsc](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+# 📝 Contact me
+[![gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michalhaj2003@gmail.com)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/299572767567773696)
