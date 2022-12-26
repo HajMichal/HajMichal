@@ -45,3 +45,14 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 # 📝 Contact me
 [![gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michalhaj2003@gmail.com)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/299572767567773696)
+
+# 2⚽23 Goals 🥅
+- Elixir
+- Django
+- MongoDB
+- Rust
+- Docker
+- Write better code
+- Build commercial website/s
+
+# 🚂 🚂 🚂
