@@ -56,7 +56,7 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 - C -> July/August
 - Rust -> December
 - Docker -> December
-- Write better code -> ASAP
+- Write better code
 - Build commercial website/s
 
 - Matura exam o.O
