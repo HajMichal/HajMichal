@@ -50,8 +50,8 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 # 2⚽23 Goals 🥅
 - React Query -> January
-- Django  -> February
-- Elixir -> March, April
+- Java  -> February
+- Java / Elixir -> March, April
 - MongoDB -> April
 - C -> July/August
 - Rust -> December
