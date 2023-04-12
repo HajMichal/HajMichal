@@ -49,14 +49,12 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/299572767567773696)
 
 # 2⚽23 Goals 🥅
-- React Query -> January
-- Java  -> February
-- Java / Elixir -> March, April
-- MongoDB -> April
-- C -> July/August
-- Rust -> December
-- Docker -> December
-- Write better code
+- React Query 
+- Java  
+- MongoDB 
+- Rust 
+- Docker 
+- Clean code
 - Build commercial website/s
 
 - Matura exam o.O
