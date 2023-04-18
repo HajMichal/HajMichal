@@ -6,8 +6,6 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 👨‍💻 I enjoy learning new technologies and develop new skills
 
-📚 I'm learning programming on my own since 3 years
-
 ⚽ My hobbies are mainly **`sport`** (skiing, football, gym) and **`deepening knowledge of computer parts`**
 
 # 🛠️ Skills
@@ -57,6 +55,5 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 - Clean code
 - Build commercial website/s
 
-- Matura exam o.O
 
 # 🚂 🚂 🚂
