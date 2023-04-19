@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
 Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.icons8.com/color/1048/poland-circular.png" width="13"/>Poland
 
-# 🚀 Something more about me
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Something more about me
 🌱 I am a 19-year-old Front End developer who is constantly developing and learning new programming languages
 
 👨‍💻 I enjoy learning new technologies and develop new skills
