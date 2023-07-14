@@ -46,8 +46,6 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 # 2⚽23 Goals 🥅
 - React Query 
-- Java  
-- MongoDB 
 - Rust 
 - Docker 
 - Clean code
