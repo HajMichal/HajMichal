@@ -49,7 +49,6 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 - Rust 
 - Docker 
 - Clean code
-- Build commercial website/s
 
 
 # 🚂 🚂 🚂
