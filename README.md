@@ -3,9 +3,13 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Something more about me
 
+📋 IT Student of WSB Univeristy in Chorzów
+
 👨‍💻 I enjoy learning new technologies and develop new skills
 
 ⚽ My hobbies are mainly **`sport`** (skiing, football, gym) and **`deepening knowledge of computer parts`**
+
+🗺️ I'm going to be full stack developer.
 
 # 🛠️ Skills
 
