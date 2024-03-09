@@ -9,7 +9,7 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 ⚽ My hobbies are mainly skiing, football and gym. 
 
-🗺️ I'm going to be full stack developer.
+🗺️ Full stack developer.
 
 # 🛠️ Skills
 
