@@ -5,7 +5,7 @@ Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.
 
 📋 IT Student of WSB Univeristy in Chorzów
 
-👨‍💻 I enjoy learning new technologies and develop new skills
+👨‍💻 I enjoy learning new technologies and develop my skills
 
 ⚽ My hobbies are mainly skiing, football and gym. 
 
