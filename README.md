@@ -1,13 +1,13 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
-Welcome to my profile! I'm Michal Haj from Bielsko-Biala, <img src="https://img.icons8.com/color/1048/poland-circular.png" width="13"/>Poland
+Welcome to my profile! I'm Michal Haj from Poland <img src="https://img.icons8.com/color/1048/poland-circular.png" width="13"/>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Something more about me
 
-📋 IT Student of WSB Univeristy in Chorzów
+📋 Part-time IT Student of MERITO Univeristy 
 
 👨‍💻 I enjoy learning new technologies and develop my skills
 
-⚽ My hobbies are mainly skiing, football and gym. 
+⚽ My hobbies beside programming are mainly skiing, football and gym. 
 
 🗺️ Full stack developer.
 
