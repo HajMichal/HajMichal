@@ -1,15 +1,16 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
-Welcome to my profile! I'm Michal Haj from Poland <img src="https://img.icons8.com/color/1048/poland-circular.png" width="13"/>
+Welcome to my profile! I'm Michal Haj located in Poland <img src="https://img.icons8.com/color/1048/poland-circular.png" width="13"/>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Something more about me
 
 📋 Part-time IT Student of MERITO Univeristy 
 
+🗺️ Full stack developer.
+
 👨‍💻 I enjoy learning new technologies and develop my skills
 
-⚽ My hobbies beside programming are mainly skiing, football and gym. 
+⚽ Besides programming, I like to do sports, mainly skiing, football, tennis and gym.
 
-🗺️ Full stack developer.
 
 # 🛠️ Skills
 
@@ -18,6 +19,7 @@ Welcome to my profile! I'm Michal Haj from Poland <img src="https://img.icons8.c
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ###  Front-End Development
@@ -30,9 +32,9 @@ Welcome to my profile! I'm Michal Haj from Poland <img src="https://img.icons8.c
 
 ### Back-End Development
 ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![nodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![expressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 
